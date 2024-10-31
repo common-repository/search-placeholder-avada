@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .settings_page_search-placeholder-avada label > span {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+.settings_page_search-placeholder-avada fieldset {
+    margin-top: 2%;
+}
